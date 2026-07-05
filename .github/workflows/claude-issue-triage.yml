@@ -48,4 +48,7 @@ jobs:
                - **Archivos y funciones afectados** (con rutas, p.ej. `game.js:tryRotate`).
                - **Enfoque de solución propuesto** (pasos de alto nivel, sin implementar aún).
                - **Labels aplicados** y por qué.
+               El comentario debe estar en formato Markdown válido que GitHub renderice
+               correctamente (encabezados, listas, negritas, bloques de código con \`\`\`
+               para snippets/rutas), no texto plano.
             No modifiques el cuerpo del issue ni escribas código de solución todavía.
